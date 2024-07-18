@@ -1,5 +1,7 @@
 How to run? as it is old project
 
+use node 16
+
 Go to deploy/db
 
 run commands
